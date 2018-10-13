@@ -10,6 +10,4 @@ def second_challenge
     result += list
   end
   result
-  
-
 end
